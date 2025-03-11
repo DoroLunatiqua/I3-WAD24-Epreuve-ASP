@@ -57,6 +57,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Stored Procedures" />
+    <Folder Include="Scripts" />
+    <Folder Include="Functions" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\User.sql" />
@@ -66,5 +69,14 @@
     <Build Include="Tables\Emprunt.sql" />
     <Build Include="Tables\TagJeu.sql" />
     <Build Include="Tables\Tags.sql" />
+    <Build Include="Stored Procedures\SP_User_Delete.sql" />
+    <Build Include="Stored Procedures\SP_User_GetById.sql" />
+    <Build Include="Stored Procedures\SP_User_Update.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DB.publish.xml" />
   </ItemGroup>
 </Project>

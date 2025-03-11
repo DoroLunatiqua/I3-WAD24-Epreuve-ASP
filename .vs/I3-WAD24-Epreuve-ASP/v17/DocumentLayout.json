@@ -1,12 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.PostDeployment.sql ",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql",
+              "RelativeDocumentMoniker": "DB\\Scripts\\Script.PostDeployment.sql",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql",
+              "RelativeToolTip": "DB\\Scripts\\Script.PostDeployment.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T13:39:03.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

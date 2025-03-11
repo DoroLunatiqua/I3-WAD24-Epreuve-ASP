@@ -1,0 +1,40 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Emprunt] (Table)
+       [dbo].[Etat] (Table)
+       [dbo].[Jeux] (Table)
+       [dbo].[Posseder] (Table)
+       [dbo].[TagJeu] (Table)
+       [dbo].[Tags] (Table)
+       [dbo].[User] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Emprunt] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Jeux] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Jeux] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       [dbo].[FK_Jeu_Id] (Clé étrangère)
+       [dbo].[FK_Preteur_Id] (Clé étrangère)
+       [dbo].[FK_Emprunteur_Id] (Clé étrangère)
+       Clé étrangère: contrainte sans nom sur [dbo].[Etat] (Clé étrangère)
+       [dbo].[FK_UserId] (Clé étrangère)
+       [dbo].[FK_JeuId] (Clé étrangère)
+       Clé étrangère: contrainte sans nom sur [dbo].[TagJeu] (Clé étrangère)
+       Clé étrangère: contrainte sans nom sur [dbo].[TagJeu] (Clé étrangère)
+       Contrainte de validation: contrainte sans nom sur [dbo].[Etat] (Contrainte de validation)
+       [dbo].[CK_Age] (Contrainte de validation)
+       [dbo].[CK_Joueurs] (Contrainte de validation)
+       [dbo].[CK_Etat] (Contrainte de validation)
+       [dbo].[SP_User_GetById] (Procédure)
+       [dbo].[SP_User_Update] (Procédure)
+
+** Actions de support

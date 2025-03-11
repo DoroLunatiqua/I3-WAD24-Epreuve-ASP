@@ -1,0 +1,10 @@
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.dacpac
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\Model.xml
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\refactor.xml
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\postdeploy.sql
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\predeploy.sql
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.dll
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.pdb
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.dll
+C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.pdb
