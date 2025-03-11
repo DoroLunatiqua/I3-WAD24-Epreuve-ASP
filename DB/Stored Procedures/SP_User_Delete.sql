@@ -1,2 +1,0 @@
-﻿--CREATE PROCEDURE [dbo].[SP_User_Delete]
-	--@UserId UNIQUEIDENTIFIER

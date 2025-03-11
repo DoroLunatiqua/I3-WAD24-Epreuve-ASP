@@ -69,9 +69,14 @@
     <Build Include="Tables\Emprunt.sql" />
     <Build Include="Tables\TagJeu.sql" />
     <Build Include="Tables\Tags.sql" />
-    <Build Include="Stored Procedures\SP_User_Delete.sql" />
     <Build Include="Stored Procedures\SP_User_GetById.sql" />
     <Build Include="Stored Procedures\SP_User_Update.sql" />
+    <Build Include="Stored Procedures\SP_User_GetAll.sql" />
+    <Build Include="Stored Procedures\SP_Jeux_GetById.sql" />
+    <Build Include="Stored Procedures\SP_Jeux_GetAll.sql" />
+    <Build Include="Stored Procedures\SP_Jeux_Insert.sql" />
+    <Build Include="Stored Procedures\SP_Jeux_Update.sql" />
+    <Build Include="Stored Procedures\SP_Jeux_Delete.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
