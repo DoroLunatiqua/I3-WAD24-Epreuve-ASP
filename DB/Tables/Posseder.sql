@@ -2,8 +2,8 @@
 (
 
 	[PossederId] int NOT NULL Identity (1,1) Primary Key,
-	[UserId] UNIQUEIDENTIFIER ,
-	[JeuId] UNIQUEIDENTIFIER,
+	[UserId] UNIQUEIDENTIFIER NOT NULL ,
+	[JeuId] UNIQUEIDENTIFIER  NOT NULL,
 	[Etat] NVARCHAR(50) NOT NULL,
 	
 	Constraint FK_UserId FOREIGN KEY (UserId) REFERENCES [User](UserId) ON DELETE CASCADE,
