@@ -82,6 +82,8 @@
     <Build Include="Stored Procedures\SP_Posseder_GetByUserId.sql" />
     <Build Include="Stored Procedures\SP_User_Insert.sql" />
     <Build Include="Functions\SF_SaltAndHash.sql" />
+    <Build Include="Stored Procedures\SP_User_CheckPassword.sql" />
+    <Build Include="Stored Procedures\SP_User_Delete.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />

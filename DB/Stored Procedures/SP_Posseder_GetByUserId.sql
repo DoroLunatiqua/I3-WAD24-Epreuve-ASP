@@ -1,4 +1,6 @@
-﻿CREATE PROCEDURE [dbo].[SP_Posseder_GetByUserId]
+﻿-- pas encore faite
+
+CREATE PROCEDURE [dbo].[SP_Posseder_GetByUserId]
 	@param1 int = 0,
 	@param2 int
 AS
