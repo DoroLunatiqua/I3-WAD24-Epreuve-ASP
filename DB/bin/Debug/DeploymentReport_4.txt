@@ -1,0 +1,48 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Emprunt] (Table)
+       [dbo].[Etat] (Table)
+       [dbo].[Jeux] (Table)
+       [dbo].[Posseder] (Table)
+       [dbo].[TagJeu] (Table)
+       [dbo].[Tags] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Emprunt] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Jeux] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Jeux] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       [dbo].[FK_Jeu_Id] (Foreign Key)
+       [dbo].[FK_Preteur_Id] (Foreign Key)
+       [dbo].[FK_Emprunteur_Id] (Foreign Key)
+       [dbo].[FK_Jeux_User] (Foreign Key)
+       [dbo].[FK_UserId] (Foreign Key)
+       [dbo].[FK_JeuId] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[TagJeu] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[TagJeu] (Foreign Key)
+       [dbo].[CK_Age] (Check Constraint)
+       [dbo].[CK_Joueurs] (Check Constraint)
+       [dbo].[CK_Etat] (Check Constraint)
+       [dbo].[SP_Jeu_Delete] (Procedure)
+       [dbo].[SP_Jeux_GetAll] (Procedure)
+       [dbo].[SP_Jeux_GetById] (Procedure)
+       [dbo].[SP_Jeux_Insert] (Procedure)
+       [dbo].[SP_Jeux_Update] (Procedure)
+       [dbo].[SP_Posseder_Delete] (Procedure)
+       [dbo].[SP_Posseder_GetById] (Procedure)
+       [dbo].[SP_Posseder_GetByUserId] (Procedure)
+       [dbo].[SP_User_GetAll] (Procedure)
+       [dbo].[SP_User_GetById] (Procedure)
+       [dbo].[SP_User_Update] (Procedure)
+
+** Supporting actions

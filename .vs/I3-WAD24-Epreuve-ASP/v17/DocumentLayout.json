@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
+  "WorkspaceRootPath": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Delete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_Jeux_Delete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_Jeux_Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Scripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_Jeux_Update.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Delete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_Jeux_Delete.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,36 +19,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SP_Jeux_Delete.sql ",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Delete.sql",
-              "RelativeDocumentMoniker": "DB\\Stored Procedures\\SP_Jeux_Delete.sql",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Delete.sql\r\n(DESKTOP-SQPAVTT\\Doro)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-11T20:56:23.822Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP-MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\appsettings.json",
+              "RelativeToolTip": "ASP-MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T13:04:00.852Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SP_Jeux_Update.sql ",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Update.sql",
-              "RelativeDocumentMoniker": "DB\\Stored Procedures\\SP_Jeux_Update.sql",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_Jeux_Update.sql\r\n(DESKTOP-SQPAVTT\\Doro)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-11T20:55:39.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Script.PostDeployment.sql ",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql",
-              "RelativeDocumentMoniker": "DB\\Scripts\\Script.PostDeployment.sql",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Scripts\\Script.PostDeployment.sql",
-              "RelativeToolTip": "DB\\Scripts\\Script.PostDeployment.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-11T13:39:03.269Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

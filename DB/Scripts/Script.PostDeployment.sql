@@ -24,3 +24,21 @@ VALUES
     ('Cartes'),
     ('Plateau'),
     ('Argent');
+
+INSERT INTO @InsertedUserIds (UserId)
+EXEC SP_User_Insert @pseudo = N'Smith', @email = N'jane.smith@example.com', @password = N'Test1234=';
+DECLARE @User1Id UNIQUEIDENTIFIER;
+SELECT @User1Id = UserId FROM @InsertedUserIds;
+DELETE FROM @InsertedUserIds;
+
+INSERT INTO @InsertedUserIds (UserId)
+EXEC SP_User_Insert @pseudo = N'Aurora', @email = N'alleluia@example.com', @password = N'Test1234=';
+DECLARE @User2Id UNIQUEIDENTIFIER;
+SELECT @User2Id = UserId FROM @InsertedUserIds;
+DELETE FROM @InsertedUserIds;
+
+INSERT INTO @InsertedUserIds (UserId)
+EXEC SP_User_Insert @pseudo = N'ENFIN!', @email = N'REussi@example.com', @password = N'Test1234=';
+DECLARE @User3Id UNIQUEIDENTIFIER;
+SELECT @User3Id = UserId FROM @InsertedUserIds;
+DELETE FROM @InsertedUserIds;

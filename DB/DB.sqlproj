@@ -77,6 +77,11 @@
     <Build Include="Stored Procedures\SP_Jeux_Insert.sql" />
     <Build Include="Stored Procedures\SP_Jeux_Update.sql" />
     <Build Include="Stored Procedures\SP_Jeux_Delete.sql" />
+    <Build Include="Stored Procedures\SP_Posseder_Delete.sql" />
+    <Build Include="Stored Procedures\SP_Posseder_GetById.sql" />
+    <Build Include="Stored Procedures\SP_Posseder_GetByUserId.sql" />
+    <Build Include="Stored Procedures\SP_User_Insert.sql" />
+    <Build Include="Functions\SF_SaltAndHash.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
