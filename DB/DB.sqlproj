@@ -86,6 +86,8 @@
     <Build Include="Stored Procedures\SP_User_Delete.sql" />
     <Build Include="Stored Procedures\SP_Posseder_Insert.sql" />
     <Build Include="Stored Procedures\SP_Posseder_Update.sql" />
+    <Build Include="Stored Procedures\SP_Posseder_CheckUserGame.sql" />
+    <Build Include="Stored Procedures\SP_Posseder_GetAll.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />

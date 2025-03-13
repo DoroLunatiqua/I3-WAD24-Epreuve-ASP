@@ -24,5 +24,24 @@ namespace DAL.Mappers
                 DisabledAt = (record[nameof(User.DisabledAt)] is DBNull) ? null : (DateTime?)record[nameof(User.DisabledAt)],
             };
         }
+
+
+        public static Posseder ToPosseder(this IDataRecord record)
+        {
+            if (record is null) throw new ArgumentNullException(nameof(record));
+
+            return new Posseder()
+            {
+                PossederId = (int)record[nameof(Posseder.PossederId)],
+                UserId = (Guid)record[nameof(Posseder.UserId)],
+                JeuId = (Guid)record[nameof(Posseder.JeuId)],
+                Etat = (string)record[nameof(Posseder.Etat)]
+            };
+        }
+
+
+
     }
+
+
 }
