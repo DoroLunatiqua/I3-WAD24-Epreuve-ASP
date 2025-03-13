@@ -7,7 +7,7 @@
 	DateEmprunt DATETIME DEFAULT GETDATE() NOT NULL,
 	DateRetour DATETIME NULL,
 	EvaluationPreteur INT ,
-	EvaluationEmprunter INT,
+	EvaluationEmprunteur INT,
 	
 	Constraint FK_Jeu_Id FOREIGN Key (JeuId) REFERENCES [Jeux](JeuId),
 	Constraint FK_Preteur_Id FOREIGN Key (PreteurId) REFERENCES [User](UserId),

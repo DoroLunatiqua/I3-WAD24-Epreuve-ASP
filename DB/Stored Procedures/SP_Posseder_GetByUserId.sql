@@ -1,8 +1,16 @@
-﻿-- pas encore faite
-
-CREATE PROCEDURE [dbo].[SP_Posseder_GetByUserId]
-	@param1 int = 0,
-	@param2 int
+﻿CREATE PROCEDURE [dbo].[SP_Posseder_GetByUserId]
+    @UserId UNIQUEIDENTIFIER
 AS
-	SELECT @param1, @param2
-RETURN 0
+BEGIN
+    -- Récupère toutes les possessions d'un utilisateur
+    SELECT 
+        PossederId,
+        UserId,
+        JeuId,
+        Etat
+    FROM 
+        Posseder
+    WHERE 
+        UserId = @UserId
+END
+

@@ -38,6 +38,33 @@ namespace BLL.Mappers
             };
         }
 
+        public static Posseder ToBLL(this D.Posseder posseder) {
+            if (posseder == null) return null;
+
+            return new Posseder
+            {
+                PossederId = posseder.PossederId,
+                UserId = posseder.UserId,
+                JeuId = posseder.JeuId,
+                Etat = posseder.Etat
+            };
+        }
+        public static D.Posseder ToDaL(this Posseder posseder) 
+        {
+            if (posseder == null) return null;
+
+            return new D.Posseder
+            {
+                PossederId = posseder.PossederId,
+                UserId = posseder.UserId,
+                JeuId = posseder.JeuId,
+                Etat = posseder.Etat
+            };
+        }
+            
+
+
+
      }
 
 }

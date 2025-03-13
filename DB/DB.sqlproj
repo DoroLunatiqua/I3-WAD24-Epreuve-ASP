@@ -88,6 +88,12 @@
     <Build Include="Stored Procedures\SP_Posseder_Update.sql" />
     <Build Include="Stored Procedures\SP_Posseder_CheckUserGame.sql" />
     <Build Include="Stored Procedures\SP_Posseder_GetAll.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_Insert.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_GetByUserId.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_Cloture.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_Evaluation.sql" />
+    <Build Include="Stored Procedures\SP_Emprunt_CheckDispo.sql" />
+    <Build Include="Stored Procedures\SP_TagJeu_Insert.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
