@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\bll\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|solutionrelative:bll\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\bll\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|solutionrelative:bll\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\controllers\\possedercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\controllers\\possedercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\services\\possederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\dal\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\posseder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F74CE07-3BB7-4415-96D1-1EC4DF8AAE0F}|Common\\Common.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\common\\repositories\\ipossederrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +50,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Posseder.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Entities\\Posseder.cs",
+              "RelativeDocumentMoniker": "BLL\\Entities\\Posseder.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Entities\\Posseder.cs",
+              "RelativeToolTip": "BLL\\Entities\\Posseder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:57:44.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Mappers\\Mapper.cs",
+              "RelativeDocumentMoniker": "BLL\\Mappers\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Mappers\\Mapper.cs",
+              "RelativeToolTip": "BLL\\Mappers\\Mapper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:56:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PossederController.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\PossederController.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\PossederController.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\PossederController.cs",
+              "RelativeToolTip": "ASP-MVC\\Controllers\\PossederController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:50:02.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Mappers\\Mapper.cs",
               "RelativeDocumentMoniker": "DAL\\Mappers\\Mapper.cs",
               "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Mappers\\Mapper.cs",
               "RelativeToolTip": "DAL\\Mappers\\Mapper.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T17:45:44.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
@@ -63,12 +110,11 @@
               "RelativeToolTip": "DAL\\Services\\UserService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:21:09.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:21:09.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PossederService.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Services\\PossederService.cs",
               "RelativeDocumentMoniker": "DAL\\Services\\PossederService.cs",
@@ -76,12 +122,11 @@
               "RelativeToolTip": "DAL\\Services\\PossederService.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAmwJwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:59:15.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T14:59:15.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IPossederRepository.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Repositories\\IPossederRepository.cs",
               "RelativeDocumentMoniker": "Common\\Repositories\\IPossederRepository.cs",
@@ -89,12 +134,11 @@
               "RelativeToolTip": "Common\\Repositories\\IPossederRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:02:58.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:02:58.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Posseder.cs",
               "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Entities\\Posseder.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\Posseder.cs",
@@ -103,19 +147,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T14:59:30.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Program.cs",
-              "RelativeDocumentMoniker": "ASP-MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Program.cs",
-              "RelativeToolTip": "ASP-MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:18:12.711Z",
               "EditorCaption": ""
             }
           ]

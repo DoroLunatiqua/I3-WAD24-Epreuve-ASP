@@ -16,7 +16,11 @@ namespace BLL.Entities
 
 
         // Propriété pour l'utilisateur
-        public User Utilisateur { get; private set; }
+        public User? Utilisateur { get; private set; }
+        // Constructeur sans l'utilisateur obligatoire
+        public Posseder()
+        {
+        }
 
         // Constructeur qui garantit que l'utilisateur est toujours fourni
         public Posseder(User utilisateur)
