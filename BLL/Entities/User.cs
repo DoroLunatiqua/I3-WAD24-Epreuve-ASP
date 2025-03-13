@@ -30,6 +30,11 @@ namespace BLL.Entities
             CreatedAt = createdAt;
         }
 
-
+        public User(string email, string password, string pseudo)
+        {
+            Email = email;
+            Password = password;
+            Pseudo = pseudo;
+        }
     }
 }

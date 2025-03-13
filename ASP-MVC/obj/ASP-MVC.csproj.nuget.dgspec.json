@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj": {}
+    "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj": {
+    "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj",
         "projectName": "ASP-MVC",
-        "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj",
-        "packagesPath": "C:\\Users\\d.valentyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\obj\\",
+        "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\ASP-MVC.csproj",
+        "packagesPath": "C:\\Users\\Doro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.valentyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Doro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj"
+              "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
+              "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
               }
             }
           }
@@ -50,8 +51,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -81,24 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj": {
+    "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\d.valentyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Doro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.valentyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Doro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,17 +107,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
+              "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
               },
-              "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj"
+              "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj"
               }
             }
           }
@@ -131,8 +132,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -159,24 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
+    "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\d.valentyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\obj\\",
+        "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Doro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.valentyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Doro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -185,6 +185,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -202,8 +203,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -230,24 +230,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj": {
+    "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\d.valentyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Doro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.valentyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Doro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -256,14 +256,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
+              "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj"
               }
             }
           }
@@ -277,8 +278,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -309,7 +309,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

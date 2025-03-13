@@ -1,0 +1,15 @@
+﻿@model ASP_MVC.Models.User.UserEditForm
+
+<h2>Modifier votre pseudo</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="Pseudo" class="control-label"></label>
+        <input asp-for="Pseudo" class="form-control" />
+        <span asp-validation-for="Pseudo" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enregistrer</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+</form>
+

@@ -35,12 +35,37 @@ namespace DAL.Services
 
         public void Delete(Guid id)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    command.CommandText = "SP_User_Delete";
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue(nameof(id), id);
+                    connection.Open();
+                    command.ExecuteNonQuery();
+                }
+            }
         }
 
-        public IEnumerable<User> Get()
+        public IEnumerable<User> GetAll()
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    command.CommandText = "SP_User_GetAll";
+                    command.CommandType = CommandType.StoredProcedure;
+                    connection.Open();
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            yield return reader.ToUser();
+                        }
+                    }
+                }
+            }
         }
 
         public User Get(Guid user_id)
@@ -93,11 +118,44 @@ namespace DAL.Services
                 {
                     command.CommandText = "SP_User_Update";
                     command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue(nameof(User.Pseudo), user.Pseudo);
+                    command.Parameters.AddWithValue("@UserId", id);
+                    command.Parameters.AddWithValue("@Pseudo", user.Pseudo ?? (object)DBNull.Value);
                     connection.Open();
                     command.ExecuteNonQuery();
                 }
             }
         }
+
+        // RAJOUT DU GETBY EMAIL Pour le Login en solution MemoryCache
+        public User GetByEmail(string email)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                using (var command = connection.CreateCommand())
+                {
+                    command.CommandText = "SELECT * FROM [User] WHERE Email = @Email";
+                    command.Parameters.AddWithValue("@Email", email);
+                    connection.Open();
+
+                    using (var reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            return new User
+                            {
+                                User_Id = reader.GetGuid(reader.GetOrdinal("UserId")),
+                                Email = reader.GetString(reader.GetOrdinal("Email")),
+                                Pseudo = reader.GetString(reader.GetOrdinal("Pseudo")),
+                                Password = reader.GetString(reader.GetOrdinal("Password")),
+                                // Ajoute les autres propriétés de User ici
+                            };
+                        }
+                        return null;
+                    }
+                }
+            }
+        }
+
+
     }
 }

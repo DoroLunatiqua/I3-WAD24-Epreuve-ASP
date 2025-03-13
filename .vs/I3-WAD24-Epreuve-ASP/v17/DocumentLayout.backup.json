@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
+  "WorkspaceRootPath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\models\\user\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\models\\user\\usereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\doro\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASP-MVC\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "ASP-MVC\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:06:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ASP-MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\appsettings.json",
-              "RelativeToolTip": "ASP-MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-12T13:04:00.852Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP-MVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "ASP-MVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:06:18.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Models\\User\\UserEditForm.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Models\\User\\UserEditForm.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Models\\User\\UserEditForm.cs",
+              "RelativeToolTip": "ASP-MVC\\Models\\User\\UserEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:05:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP-MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:03:11.967Z",
               "EditorCaption": ""
             },
             {

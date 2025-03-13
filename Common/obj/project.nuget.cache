@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K6TU0f1dtcY=",
+  "dgSpecHash": "V2WY2R5lYRo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\Doro\\source\\repos\\I3-WAD24-Epreuve-ASP\\Common\\Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\d.valentyn\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
-    "C:\\Users\\d.valentyn\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\d.valentyn\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\Doro\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Doro\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Doro\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
