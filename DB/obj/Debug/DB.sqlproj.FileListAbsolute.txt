@@ -12,9 +12,9 @@ C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.dacpac
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.dll
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\bin\Debug\DB.pdb
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.dll
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.pdb
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\Model.xml
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\refactor.xml
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\postdeploy.sql
 C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\predeploy.sql
-C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.dll
-C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\DB\obj\Debug\DB.pdb

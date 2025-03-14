@@ -16,7 +16,7 @@ namespace DAL.Mappers
             //if (record is null) return null;
             return new User()
             {
-                User_Id = (Guid)record[nameof(User.User_Id)],
+                User_Id = (Guid)record["UserId"],
                 Pseudo = (string)record[nameof(User.Pseudo)],
                 Email = (string)record[nameof(User.Email)],
                 Password = "********",

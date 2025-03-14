@@ -1,13 +1,13 @@
 ﻿
 CREATE PROCEDURE SP_User_GetById
-    @UserId UNIQUEIDENTIFIER
+    @user_id UNIQUEIDENTIFIER
 AS
 BEGIN
     SET NOCOUNT ON;
 
     SELECT UserId, Email, Pseudo, CreatedAt, DisabledAt
     FROM [dbo].[User]
-    WHERE UserId = @UserId;
+    WHERE UserId = @user_id;
 END;
 GO
 

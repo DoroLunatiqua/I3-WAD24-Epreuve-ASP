@@ -9,5 +9,6 @@ namespace Common.Repositories
     public interface IUserRepository<TUser> : ICRUDRepository<TUser, Guid>
     {
         Guid CheckPassword(string email, string password);
+        //TUser Login(string email); 
     }
 }

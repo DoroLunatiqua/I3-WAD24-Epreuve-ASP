@@ -12,6 +12,7 @@ namespace BLL.Services
     public class UserService : IUserRepository<User>
     {
         private IUserRepository<DAL.Entities.User> _userService;
+       
 
         public UserService(
             IUserRepository<DAL.Entities.User> userService)
@@ -58,7 +59,7 @@ namespace BLL.Services
         //public User Login(string email, string password)
         //{
         //    // 1. Chercher l'utilisateur en base de données (DAL)
-        //    User user = _userService.GetByEmail(email); // Appelle ta méthode GetByEmail qui récupère l'utilisateur par son email
+        //    User user = _userService.Login(email).ToBLL(); ;
 
         //    // 2. Vérifier si l'utilisateur existe et si le mot de passe est correct
         //    if (user == null || user.Password != password)

@@ -11,3 +11,16 @@ C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.d
 C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.pdb
 C:\Users\Doro\source\repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\bin\Debug\net8.0\Common.dll
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.dll
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\d.valentyn\Source\Repos\I3-WAD24-Epreuve-ASP\Common\obj\Debug\net8.0\ref\Common.dll

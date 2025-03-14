@@ -127,34 +127,34 @@ namespace DAL.Services
         }
 
         // RAJOUT DU GETBY EMAIL Pour le Login en solution MemoryCache
-        public User GetByEmail(string email)
-        {
-            using (var connection = new SqlConnection(_connectionString))
-            {
-                using (var command = connection.CreateCommand())
-                {
-                    command.CommandText = "SELECT * FROM [User] WHERE Email = @Email";
-                    command.Parameters.AddWithValue("@Email", email);
-                    connection.Open();
+        //public User Login(string email)
+        //{
+        //    using (var connection = new SqlConnection(_connectionString))
+        //    {
+        //        using (var command = connection.CreateCommand())
+        //        {
+        //            command.CommandText = "SELECT * FROM [User] WHERE Email = @Email";
+        //            command.Parameters.AddWithValue("@Email", email);
+        //            connection.Open();
 
-                    using (var reader = command.ExecuteReader())
-                    {
-                        if (reader.Read())
-                        {
-                            return new User
-                            {
-                                User_Id = reader.GetGuid(reader.GetOrdinal("UserId")),
-                                Email = reader.GetString(reader.GetOrdinal("Email")),
-                                Pseudo = reader.GetString(reader.GetOrdinal("Pseudo")),
-                                Password = reader.GetString(reader.GetOrdinal("Password")),
-                                // Ajoute les autres propriétés de User ici
-                            };
-                        }
-                        return null;
-                    }
-                }
-            }
-        }
+        //            using (var reader = command.ExecuteReader())
+        //            {
+        //                if (reader.Read())
+        //                {
+        //                    return new User
+        //                    {
+        //                        User_Id = reader.GetGuid(reader.GetOrdinal("UserId")),
+        //                        Email = reader.GetString(reader.GetOrdinal("Email")),
+        //                        Pseudo = reader.GetString(reader.GetOrdinal("Pseudo")),
+        //                        Password = reader.GetString(reader.GetOrdinal("Password")),
+                                
+        //                    };
+        //                }
+        //                return null;
+        //            }
+        //        }
+        //    }
+        //}
 
 
     }

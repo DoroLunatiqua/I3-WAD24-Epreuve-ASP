@@ -1,4 +1,5 @@
 ﻿
+using ASP_MVC.Handlers.Filtres;
 using ASP_MVC.Mappers;
 using ASP_MVC.Models.User;
 using BLL.Entities;
@@ -23,6 +24,7 @@ namespace ASP_MVC.Controllers
 
 
         // GET: UserController
+       
         public ActionResult Index()
         {
             return View();
@@ -44,6 +46,8 @@ namespace ASP_MVC.Controllers
 
 
         // GET: UserController/Create
+        [AnonymousNeeded]
+      
         public ActionResult Create()
         {
             return View();
@@ -51,10 +55,11 @@ namespace ASP_MVC.Controllers
 
       
     // POST: UserController/Create
-    [HttpPost]
-   
-    public ActionResult Create (UserCreateForm form)
-    {
+        [HttpPost]
+        [AnonymousNeeded]
+
+        public ActionResult Create (UserCreateForm form)
+        {
             try
             {
                 if (!form.Consent) ModelState.AddModelError(nameof(form.Consent), "Vous devez lire et accepter les conditions générales d'utilisation.");
