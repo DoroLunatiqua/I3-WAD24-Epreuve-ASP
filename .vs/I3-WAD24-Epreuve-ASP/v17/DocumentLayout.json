@@ -3,47 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBJeux/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\handlers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\handlers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBJeux/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C01433D3-6DDF-4079-99F6-888BFE3719CE}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\handlers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\handlers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6366F4B2-B964-4DED-9250-534C69B32970}|DAL\\DAL.csproj|solutionrelative:dal\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_GetById.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_User_GetById.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_CheckPassword.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_User_CheckPassword.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,14 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|c:\\users\\d.valentyn\\source\\repos\\i3-wad24-epreuve-asp\\asp-mvc\\views\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{142514CF-9333-42B9-B534-AA59EBCF3CE4}|ASP-MVC\\ASP-MVC.csproj|solutionrelative:asp-mvc\\views\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_CheckPassword.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_User_CheckPassword.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|C:\\Users\\d.valentyn\\Source\\Repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_GetById.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{1ADFE27D-749A-4359-9CB4-AD1C259087CE}|DB\\DB.sqlproj|solutionrelative:DB\\Stored Procedures\\SP_User_GetById.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,6 +58,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBJeux/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-14T15:12:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ASP-MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:02:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T14:26:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\User\\Details.cshtml",
               "RelativeDocumentMoniker": "ASP-MVC\\Views\\User\\Details.cshtml",
@@ -94,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "DAL\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Services\\UserService.cs",
               "RelativeToolTip": "DAL\\Services\\UserService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwFQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T13:22:43.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "ASP-MVC\\Views\\Auth\\Login.cshtml",
@@ -115,12 +127,11 @@
               "RelativeToolTip": "ASP-MVC\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T12:49:57.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:49:57.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Program.cs",
               "RelativeDocumentMoniker": "ASP-MVC\\Program.cs",
@@ -128,22 +139,11 @@
               "RelativeToolTip": "ASP-MVC\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwCoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:46:57.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:46:57.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.User [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBJeux/True/SqlTable/dbo.User.sql",
-              "ToolTip": "dbo.User [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-14T12:42:09.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Handlers\\SessionManager.cs",
               "RelativeDocumentMoniker": "ASP-MVC\\Handlers\\SessionManager.cs",
@@ -151,62 +151,11 @@
               "RelativeToolTip": "ASP-MVC\\Handlers\\SessionManager.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:31:09.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ASP-MVC\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:38:54.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ASP-MVC\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ASP-MVC\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:10:23.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:31:09.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:09:58.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SP_User_GetById.sql ",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_GetById.sql",
-              "RelativeDocumentMoniker": "DB\\Stored Procedures\\SP_User_GetById.sql",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_GetById.sql\r\n(FORM\\d.valentyn)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-14T13:29:19.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DAL\\Mappers\\Mapper.cs",
               "RelativeDocumentMoniker": "DAL\\Mappers\\Mapper.cs",
@@ -214,23 +163,11 @@
               "RelativeToolTip": "DAL\\Mappers\\Mapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:37:13.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T13:37:13.126Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "SP_User_CheckPassword.sql ",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_CheckPassword.sql",
-              "RelativeDocumentMoniker": "DB\\Stored Procedures\\SP_User_CheckPassword.sql",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\DB\\Stored Procedures\\SP_User_CheckPassword.sql\r\n(FORM\\d.valentyn)",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-14T13:22:08.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\Auth\\Logout.cshtml",
               "RelativeDocumentMoniker": "ASP-MVC\\Views\\Auth\\Logout.cshtml",
@@ -238,21 +175,7 @@
               "RelativeToolTip": "ASP-MVC\\Views\\Auth\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T12:50:27.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ASP-MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\d.valentyn\\source\\repos\\I3-WAD24-Epreuve-ASP\\ASP-MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ASP-MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T13:17:43.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T12:50:27.552Z"
             }
           ]
         }
